@@ -76,7 +76,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap justify-center gap-4 pt-4">
             <a
-              href="https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/nextjs-starter&env=DATABASE_URL,BETTER_AUTH_SECRET,BETTER_AUTH_URL,GOOGLE_CLIENT_ID,GOOGLE_CLIENT_SECRET,MICROSOFT_CLIENT_ID,MICROSOFT_CLIENT_SECRET,MICROSOFT_TENANT_ID,RESEND_API_KEY"
+              href="https://vercel.com/new/clone?repository-url=https://github.com/samuelnh/nextjs-starter&env=DATABASE_URL,BETTER_AUTH_SECRET,BETTER_AUTH_URL,GOOGLE_CLIENT_ID,GOOGLE_CLIENT_SECRET,MICROSOFT_CLIENT_ID,MICROSOFT_CLIENT_SECRET,MICROSOFT_TENANT_ID,RESEND_API_KEY"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex h-12 items-center gap-2 rounded-full bg-foreground px-6 text-sm font-medium text-background transition-colors hover:bg-foreground/90"
@@ -91,7 +91,7 @@ export default function Home() {
               Deploy to Vercel
             </a>
             <a
-              href="https://github.com/YOUR_USERNAME/nextjs-starter"
+              href="https://github.com/samuelnh/nextjs-starter"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex h-12 items-center rounded-full border px-6 text-sm font-medium transition-colors hover:bg-muted"
